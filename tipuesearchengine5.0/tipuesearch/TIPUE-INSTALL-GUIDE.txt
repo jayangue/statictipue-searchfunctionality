@@ -27,6 +27,10 @@ In order to add TIPUE SEARCH to your website you need to do the following
 
 <!-- THIS IS WHERE YOU DISPLAY THE SEARCH RESULTS -->
 <div id="tipue_search_content"></div>
+<!-- OPTIONAL: If your page is loading slow you can add tipue spinner" -->
+<!-- remove this to use the spinner
+<div id="tipue_search_content"><div class="tipue_search_spinner"><div class="tipue_search_rect1"></div><div class="tipue_search_rect2"></div><div class="tipue_search_rect3"></div></div>
+remove this to use the spinner -->
 
 <!-- THIS JAVASCRIPT CODE DISPLAY THE SEARCH RESULTS -->
 <script>
